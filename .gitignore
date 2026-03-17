@@ -1,0 +1,13 @@
+# 忽略操作系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略 log 和临时文件
+*.log
+*.tmp
+
+dist/
+.cache/
